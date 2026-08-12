@@ -11,7 +11,6 @@
     Shell.ForegroundColor="#FFFFFF">
 
     <ShellContent ContentTemplate ="{DataTemplate views:HomePage}" Route="HomePage" Title="Initial"/>
-    <ShellContent ContentTemplate ="{DataTemplate views:LoginPage}" Route="LoginPage" Title="LoginPage"/>
-
+    
 
 </Shell>

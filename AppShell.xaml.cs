@@ -7,7 +7,6 @@ namespace AppMusic
         public AppShell()
         {
             InitializeComponent();
-            Routing.RegisterRoute("HomePage", typeof(HomePage));
             Routing.RegisterRoute("LoginPage", typeof(LoginPage));
             Routing.RegisterRoute("CadastroPage", typeof(CadastroPage));
         }
